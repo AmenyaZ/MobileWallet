@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Mobile Wallet</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="enter_pin">Enter Pin</string>
+    <string name="enter_your_id">Enter Customer ID</string>
+    <string name="user_login">LOGIN</string>
+    <string name="register_here">Register here</string>
+    <string name="user_registration">User Registration</string>
+    <string name="enter_the_first_name">Enter The First Name</string>
+    <string name="enter_the_second_name">Enter The Second Name</string>
+    <string name="enter_your_username">Enter your Username</string>
+    <string name="type_in_your_password">Type In your Password</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
 </resources>
