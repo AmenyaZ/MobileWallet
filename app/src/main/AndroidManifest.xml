@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MobileWallet">
         <activity
+            android:name=".ProfilePage"
+            android:exported="false" />
+        <activity
+            android:name=".ViewStatementPage"
+            android:exported="false" />
+        <activity
+            android:name=".SendmoneyPage"
+            android:exported="false" />
+        <activity
+            android:name=".BalancePage"
+            android:exported="false" />
+        <activity
             android:name=".Homepage"
             android:exported="false" />
         <activity

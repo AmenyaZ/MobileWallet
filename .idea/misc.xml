@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/my_boarder.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_balance_page.xml" value="0.1911231884057971" />
+        <entry key="app/src/main/res/layout/activity_homepage.xml" value="0.24" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.21458333333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
       </map>
