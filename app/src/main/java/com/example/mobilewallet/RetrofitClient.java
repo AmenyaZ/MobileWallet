@@ -11,7 +11,7 @@ public class RetrofitClient {
         private Api myApi;
 
         private RetrofitClient() {
-            Retrofit retrofit = new Retrofit.Builder().baseUrl(Api.BASE_URL)
+            Retrofit retrofit = new Retrofit.Builder().baseUrl(String.valueOf(Api.class))
                     .addConverterFactory(GsonConverterFactory.create())
                     .build();
             myApi = retrofit.create(Api.class);
@@ -28,4 +28,4 @@ public class RetrofitClient {
             return myApi;
         }
     }
-}
+

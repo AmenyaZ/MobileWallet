@@ -22,4 +22,5 @@
     <string name="send_money">SEND MONEY</string>
     <string name="account_to">Account to</string>
     <string name="amount">Amount</string>
+    <string name="full_name">Full Name :</string>
 </resources>

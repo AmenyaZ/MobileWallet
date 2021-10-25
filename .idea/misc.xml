@@ -3,12 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/ic_image_black_24dp.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/drawable/my_boarder.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/activity_balance_page.xml" value="0.1911231884057971" />
         <entry key="app/src/main/res/layout/activity_homepage.xml" value="0.24" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.21458333333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
-        <entry key="app/src/main/res/layout/activity_profile_page.xml" value="0.10472801220132182" />
+        <entry key="app/src/main/res/layout/activity_profile_page.xml" value="0.29333333333333333" />
         <entry key="app/src/main/res/layout/activity_sendmoney_page.xml" value="0.26666666666666666" />
         <entry key="app/src/main/res/layout/activity_view_statement_page.xml" value="0.26666666666666666" />
       </map>
