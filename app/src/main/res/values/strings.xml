@@ -19,4 +19,7 @@
     <string name="enter_your_username">Enter your Username</string>
     <string name="type_in_your_password">Type In your Password</string>
     <string name="confirm_your_password">Confirm Your Password</string>
+    <string name="send_money">SEND MONEY</string>
+    <string name="account_to">Account to</string>
+    <string name="amount">Amount</string>
 </resources>

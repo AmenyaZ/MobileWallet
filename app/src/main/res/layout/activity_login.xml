@@ -72,7 +72,7 @@
             android:background="@drawable/my_boarder"
             android:ems="10"
             android:hint="@string/enter_your_id"
-            android:inputType="textEmailAddress"
+            android:inputType="number"
             android:textColor="#010710"
             android:textSize="24sp"
             android:textStyle="italic"
