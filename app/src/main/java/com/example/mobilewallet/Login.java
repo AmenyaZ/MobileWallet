@@ -29,6 +29,7 @@ public class Login extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
+        baseUrl = "http://192.168.1.202/rest.php";
         About = findViewById(R.id.tvAbout);
         ID = findViewById(R.id.etID);
         Pin = findViewById(R.id.etpin);
